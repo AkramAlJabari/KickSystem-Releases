@@ -1,1 +1,1 @@
-# KickSystem-Releases
+# Kick End Credits Releases
